@@ -1,16 +1,41 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/vallenato/vallenato.css">
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+<script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
 
-{% endif %}
+<!-- -----------2023-------------- -->
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<div class="vallenato">
+<h2 style="text-align: center;">2023</h2>
+
+<!-- ----------------------------- -->
+	
+<div class="vallenato-header">
+Using Writhe to Produce Realistic Protein Structures from BioSAXS data.
+
+</div><!--/.vallenato-header-->
+
+<div class="vallenato-content">
+	<p>May 16, 2023 - MoSMed Annual Conference, Newcastle University</p>
+	<p>A talk for physicists in lattice gauge theory based on my work on looking for center vortices in the SU(2) lattice gauge theory and the results in my paper of the same name.</p>
+<p>(<a href="{{ site.baseurl }}/files/talk_notes/mosmed2023_talk.pdf">Slides</a>)</p>
+</div><!--/.vallenato-content-->
+	
+</div><!--/.vallenato-->
+
+<script>
+$(document).ready(function() {
+	vallenato();
+});
+</script>
