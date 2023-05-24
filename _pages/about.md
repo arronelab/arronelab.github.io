@@ -9,4 +9,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student with the [MoSMed CDT](https://research.ncl.ac.uk/mosmed/) working with [Chris Prior](https://www.maths.dur.ac.uk/users/christopher.prior/) and [Rob Rambo](https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/small-angle/B21/Staff/Robert-Rambo.html).
+I am a PhD student with the [MoSMed CDT](https://research.ncl.ac.uk/mosmed/) working with [Chris Prior](https://www.maths.dur.ac.uk/users/christopher.prior/) and [Rob Rambo](https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/small-angle/B21/Staff/Robert-Rambo.html). My work is mainly focused on the development of software for predicting the tertiary structure of proteins based on BioSAXS data. I am interested in the application of topological concepts to this problem, in particular building a writhe based measure to determine structural similarity.
