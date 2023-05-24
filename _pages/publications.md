@@ -53,9 +53,9 @@ SWRITHE: a python package to identify surprising protein tertiary structure rela
    We derive empirical bounds on the entanglement implied by these measures and show how they can be used to constrain the search space of a protein for solution scattering, a method highly suited to determining the likely structure of proteins in solution where crystal structure or machine learning based predictions often fail to match experimental data. 
    In addition we identify large scale helical geometries present in a large array of proteins which are consistent across a number of different protein structure types and sequences.
    This is used in one specific case to demonstrate significant structural similarity between Rossmann fold and Tim Barrel proteins, a link which is potentially significant as attempts to engineer the latter have in the past produced the former. 
-   Finally we introduce the SWRITHE python package to calculate these metrics and analyse their findings.</p>
-
-	<p><a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.034501">Publisher</a>, <a href="https://arxiv.org/abs/2207.13392">arXiv</a>.</p>
+   Finally we introduce the SWRITHE python package to calculate these metrics and analyse their findings.
+</p>
+<p><a href="">Publisher</a>, <a href="">arXiv</a>.</p>
 </div><!--/.vallenato-content-->
  
 </div><!--/.vallenato-->
