@@ -41,19 +41,13 @@ author_profile: true
 <div class="vallenato">
 <h2 style="text-align: center;">Publications</h2>
 <div class="vallenato-header" id="su2_center_vortices">
-SWRITHE: a python package to identify surprising protein tertiary structure relationships and aid new structure search.
+Novel topological methods for identifying surprising protein tertiary structure relationships.
 </div><!--/.vallenato-header-->
 	
 <div class="vallenato-content">
 <p>with <a href="[[https://sites.google.com/view/jeffreygiansiracusa/home](https://www.maths.dur.ac.uk/users/christopher.prior/)](https://www.maths.dur.ac.uk/users/christopher.prior/)">Chris Prior</a> and <a href="[[http://pyweb.swan.ac.uk/~pybl/](https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/small-angle/B21/Staff/Robert-Rambo.html)](https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/small-angle/B21/Staff/Robert-Rambo.html)">Rob Rambo</a>.</p>
 
-<p>We present fast and simple-to-implement measures of the entanglement of protein tertiary structures which are appropriate for highly flexible structure comparison.
-   These quantities are based on the writhing and crossing numbers heavily utilised in DNA topology studies. 
-   Here we show how they can be applied in a novel manner across various scales of the protein’s backbone to identify similar topologies which can be missed by more common RMSD, secondary structure or primary sequence based comparison methods. 
-   We derive empirical bounds on the entanglement implied by these measures and show how they can be used to constrain the search space of a protein for solution scattering, a method highly suited to determining the likely structure of proteins in solution where crystal structure or machine learning based predictions often fail to match experimental data. 
-   In addition we identify large scale helical geometries present in a large array of proteins which are consistent across a number of different protein structure types and sequences.
-   This is used in one specific case to demonstrate significant structural similarity between Rossmann fold and Tim Barrel proteins, a link which is potentially significant as attempts to engineer the latter have in the past produced the former. 
-   Finally we introduce the SWRITHE python package to calculate these metrics and analyse their findings.
+<p>We present fast and simple-to-implement measures of the entanglement of protein tertiary structures which are appropriate for highly flexible structure comparison. These quantities are based on the writhing and crossing numbers heavily utilised in DNA topology studies which and which have shown some promising results when applied to proteins recently. Here we show how they can be applied in a novel manner across various scales of the protein's backbone to identify similar topologies which can be missed by more common RMSD, secondary structure or primary sequence based comparison methods. We derive empirical bounds on the entanglement implied by these measures and show how they can be used to constrain the search space of a protein for solution scattering, a method highly suited to determining the likely structure of proteins in solution where crystal structure or machine learning based predictions often fail to match experimental data. In addition we identify large scale helical geometries present in a large array of proteins, which are consistent across a number of different protein structure types and sequences. This is used in one specific case to demonstrate significant structural similarity between Rossmann fold and TIM Barrel proteins, a link which is potentially significant as attempts to engineer the latter have in the past produced the former. Finally we provide the SWRITHE python notebook to calculate these metrics.
 </p>
 <p><a href="">Publisher</a>, <a href="">arXiv</a>.</p>
 </div><!--/.vallenato-content-->
