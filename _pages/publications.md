@@ -49,7 +49,7 @@ Novel topological methods for identifying surprising protein tertiary structure 
 
 <p>We present fast and simple-to-implement measures of the entanglement of protein tertiary structures which are appropriate for highly flexible structure comparison. These quantities are based on the writhing and crossing numbers heavily utilised in DNA topology studies which and which have shown some promising results when applied to proteins recently. Here we show how they can be applied in a novel manner across various scales of the protein's backbone to identify similar topologies which can be missed by more common RMSD, secondary structure or primary sequence based comparison methods. We derive empirical bounds on the entanglement implied by these measures and show how they can be used to constrain the search space of a protein for solution scattering, a method highly suited to determining the likely structure of proteins in solution where crystal structure or machine learning based predictions often fail to match experimental data. In addition we identify large scale helical geometries present in a large array of proteins, which are consistent across a number of different protein structure types and sequences. This is used in one specific case to demonstrate significant structural similarity between Rossmann fold and TIM Barrel proteins, a link which is potentially significant as attempts to engineer the latter have in the past produced the former. Finally we provide the SWRITHE python notebook to calculate these metrics.
 </p>
-<p><a href="">Publisher</a>, <a href="">arXiv</a>.</p>
+<p><a href="">Publisher</a>, <a href="https://www.biorxiv.org/content/10.1101/2023.06.09.544297v1">BiorXiv</a>.</p>
 </div><!--/.vallenato-content-->
  
 </div><!--/.vallenato-->
