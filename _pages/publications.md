@@ -24,24 +24,16 @@ author_profile: true
 <h3>Carbonara</h3>
 <p>
 	Much of my work has been based on the development of a <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01010">software for ab-initio structure prediction from BioSAXS data.</a> Biological small angle X-ray scattering is a technique for determining protein structures in solution which is useful for proteins which fail to crystallise or are too large for NMR. The original model used a novel constrained backbone algorithm to randomly search the space of possible conformations in order to fit experimental scattering data. This algorithm uses local geometric constraints on the backbone which are analogous to the Ramachandran distributions of dihedral angles. Though these constraints ensure the predicted structures are locally realistic, the global fold may not be. By studying the distribution of entanglement across the PDB, we are able to include a penalty for unrealistic global entanglement. This massively reduces the search space of possible conformations, and ensures the output structures are realistic and behave well in MD simulations. The full carbonara software package will be released for public soon, but if you have scattering data that you would like to study in the meantime please do contact us!
-</p><p>
-	Carbonara link.
-</p><p>
-	Carbonara paper.
 </p>
 
 <h3>Writhe</h3>
 <p>
-	To study the entanglement of protein backbone curves we use the writhe. This is a topological quantity which measures the amount of self entanglement of a curve. This quantiy has a wide range of uses, from solar physics to DNA biology. In my work, I use the writhe in the Carbonara software to restrict predictions to biologically realistic conformations. To determine what is realistic, we compute the writhe of a representative sample of proteins from the PDB, and found a clear lower bound on the entanglement as a function of the number of secondary structure elements of a protein. By studying the distribution of writhe across the PDB, we alos uncovered some interesting families of proteins. Firstly, there are proteins which come close to achieving, or even beating, the linear upper bound on writhe. We see that this is due to their large scale helical structure, and have found that this is linked to structural stability for proteins. The second family of proteins we are interested in are those which have quite complex entanglement yet net zero writhe. This idea was inspired by a method of storing cables used by roadies/sound engineers, where the cable is looped up without ever becoming knotted. In terms of writhe, this is due to orientation of the loops, where there is essentially cancellation in the entanglement between each loop. We have uncovered a large set of proteins which have a writhe profile that matches this conformation, which we are currently calling roadie proteins. There are many physical uses for this conformation in other contexts, but its functional advantage in proteins is not yet clear to us. Please do get in touch if you have any ideas! For the full details of this work, see the preprint in the following link:
-</p><p>
-	Writhe link.
-</p><p>
-	Writhe paper.
+	To study the entanglement of protein backbone curves we use the writhe. This is a topological quantity which measures the amount of self entanglement of a curve. This quantiy has a wide range of uses, from solar physics to DNA biology. In my work, I use the writhe in the Carbonara software to restrict predictions to biologically realistic conformations. To determine what is realistic, we compute the writhe of a representative sample of proteins from the PDB, and found a clear lower bound on the entanglement as a function of the number of secondary structure elements of a protein. By studying the distribution of writhe across the PDB, we alos uncovered some interesting families of proteins. Firstly, there are proteins which come close to achieving, or even beating, the linear upper bound on writhe. We see that this is due to their large scale helical structure, and have found that this is linked to structural stability for proteins. The second family of proteins we are interested in are those which have quite complex entanglement yet net zero writhe. This idea was inspired by a method of storing cables used by roadies/sound engineers, where the cable is looped up without ever becoming knotted. In terms of writhe, this is due to orientation of the loops, where there is essentially cancellation in the entanglement between each loop. We have uncovered a large set of proteins which have a writhe profile that matches this conformation, which we are currently calling roadie proteins. There are many physical uses for this conformation in other contexts, but its functional advantage in proteins is not yet clear to us. Please do get in touch if you have any ideas! For the full details of this work, see the preprint below.
 </p>
 <div class="vallenato">
 <h2 style="text-align: center;">Publications</h2>
 <div class="vallenato-header" id="su2_center_vortices">
-Novel topological methods for identifying surprising protein tertiary structure relationships.
+Novel topological methods for identifying surprising protein tertiary structure relationships. (Preprint)
 </div><!--/.vallenato-header-->
 	
 <div class="vallenato-content">
@@ -51,30 +43,6 @@ Novel topological methods for identifying surprising protein tertiary structure 
 </p>
 <p><a href="">Publisher</a>, <a href="https://www.biorxiv.org/content/10.1101/2023.06.09.544297v1">BiorXiv</a>.</p>
 </div><!--/.vallenato-content-->
- 
-</div><!--/.vallenato-->
-
-<div class="vallenato">
-<h2 style="text-align: center;">Theses</h2>
-<div class="vallenato-header">
-PhD Thesis:
-</div><!--/.vallenato-header-->
-
-<div class="vallenato-content">
-<p> ... </p>
-</div><!--/.vallenato-content-->	
-	
-<div class="vallenato-header">
-Masters Dissertation: 
-</div><!--/.vallenato-header-->
-
-<div class="vallenato-content">
-<p> ... </p>
-
-<p>Submitted in April 2020.</p>
-</div><!--/.vallenato-content-->
-  
-</div><!--/.vallenato-->
 
 <script>
 $(document).ready(function() {
