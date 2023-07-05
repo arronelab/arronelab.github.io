@@ -43,6 +43,7 @@ Novel topological methods for identifying surprising protein tertiary structure 
 </p>
 <p><a href="">Publisher</a>, <a href="https://www.biorxiv.org/content/10.1101/2023.06.09.544297v1">BiorXiv</a>.</p>
 </div><!--/.vallenato-content-->
+</div><!--/.vallenato-->
 
 <script>
 $(document).ready(function() {
