@@ -23,5 +23,7 @@ I am a PhD student with the [MoSMed CDT](https://research.ncl.ac.uk/mosmed/) wor
 <li> December 2021 - First visit to <a href="https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/small-angle/B21.html">Diamond Light Source.</a></li>
 <li> Majority of 2020/21 - Travelled between my bedroom office and the kitchen for obvious reasons..</li>
 </ul>
+
 ### Currently listening to
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1147628014&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=1147628014&redirect=true)
