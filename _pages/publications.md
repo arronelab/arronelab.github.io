@@ -39,7 +39,7 @@ In my work, I use the writhe in the Carbonara software to restrict predictions t
 <div class="vallenato">
 <h2 style="text-align: center;">Publications</h2>
 <div class="vallenato-header" id="su2_center_vortices">
-The SKMT Algorithm: A method for assessing and comparing underlying protein entanglement. (Preprint)
+The SKMT Algorithm: A method for assessing and comparing underlying protein entanglement.
 </div><!--/.vallenato-header-->
 	
 <div class="vallenato-content">
