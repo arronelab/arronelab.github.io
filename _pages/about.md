@@ -28,3 +28,7 @@ I am a PhD student with the [MoSMed CDT](https://research.ncl.ac.uk/mosmed/) wor
 ### Currently listening to...
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1147628014&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=1147628014&redirect=true)
+
+### Currently reading...
+
+<a href="https://www.penguin.co.uk/books/305650/the-penguin-book-of-the-contemporary-british-short-story-by-philip-hensher-ed/9780141986210"> The Penguin Book of the Contemporary British Short Story </a>
