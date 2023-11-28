@@ -13,6 +13,7 @@ I am a PhD student with the [MoSMed CDT](https://research.ncl.ac.uk/mosmed/) wor
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
+<li> November 2023 - First paper published in <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011248">PLOS Comp Bio<</a>.</li>
 <li> July 2023 - Attended the <a href="https://www.iscb.org/ismbeccb2023">ISMB/ECCB</a> conference in Lyon.</li>
 <li> July 2023 - Attended the <a href="https://www.ecrm2023.com/">ECRM</a> hosted at Durham University (and organised by my great office mates).</li>
 <li> May 2023 - Attended the <a href="https://research.ncl.ac.uk/mosmed/mosmed/">MoSMed</a> Annual Conference hosted at Newcastle University.</li>
