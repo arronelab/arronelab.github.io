@@ -32,4 +32,4 @@ I am a PhD student with the [MoSMed CDT](https://research.ncl.ac.uk/mosmed/) wor
 
 ### Currently reading...
 
-<a href="https://www.penguin.co.uk/books/305650/the-penguin-book-of-the-contemporary-british-short-story-by-philip-hensher-ed/9780141986210"> The Penguin Book of the Contemporary British Short Story </a>
+<a href="https://pmpress.org/index.php?l=product_detail&p=974"> Autonomy Is in Our Hearts: Zapatista Autonomous Government through the Lens of the Tsotsil Language </a>
