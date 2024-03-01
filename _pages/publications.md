@@ -58,7 +58,7 @@ Writhing From Biophysics to Solar Physics and Back.
 
 <p>Contributed to a chapter in the peer-reviewed book: Helicities in Geophysics, Astrophysics, and Beyond. This includes some of my early work on the applications of the various forms of writhing on protein structure studies.
 </p>
-<p><a href="[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011248](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119841715.ch9)">Publisher</a>.</p>
+<p><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119841715.ch9">Publisher</a>.</p>
 </div><!--/.vallenato-content-->
 </div><!--/.vallenato-->
 
