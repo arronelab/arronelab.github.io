@@ -38,16 +38,27 @@ In my work, I use the writhe in the Carbonara software to restrict predictions t
 </p>
 <div class="vallenato">
 <h2 style="text-align: center;">Publications</h2>
-<div class="vallenato-header" id="su2_center_vortices">
+<div class="vallenato-header" id="skmt">
 The SKMT Algorithm: A method for assessing and comparing underlying protein entanglement.
 </div><!--/.vallenato-header-->
 	
 <div class="vallenato-content">
-<p>with <a href="[[https://sites.google.com/view/jeffreygiansiracusa/home](https://www.maths.dur.ac.uk/users/christopher.prior/)](https://www.maths.dur.ac.uk/users/christopher.prior/)">Chris Prior</a> and <a href="[[http://pyweb.swan.ac.uk/~pybl/](https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/small-angle/B21/Staff/Robert-Rambo.html)](https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/small-angle/B21/Staff/Robert-Rambo.html)">Rob Rambo</a>.</p>
+<p>with <a href="https://www.maths.dur.ac.uk/users/christopher.prior/">Chris Prior</a> and <a href="https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/small-angle/B21/Staff/Robert-Rambo.html">Rob Rambo</a>.</p>
 
 <p>We present fast and simple-to-implement measures of the entanglement of protein tertiary structures which are appropriate for highly flexible structure comparison. These are performed using the SKMT algorithm, a novel method of smoothing the alpha-carbon backbone to achieve a minimal complexity curve representation of the manner in which the protein's secondary structure elements fold to form its tertiary structure. Its subsequent complexity is characterised using measures based on the writhe and crossing number quantities heavily utilised in DNA topology studies, and which have shown promising results when applied to proteins recently. The SKMT smoothing is used to derive empirical bounds on a protein's entanglement relative to its number of secondary structure elements. We show that large scale helical geometries dominantly account for the maximum growth in entanglement of protein monomers, and further that this large scale helical geometry is present in a large array of proteins, consistent across a number of different protein structure types and sequences. We also show how these bounds can be used to constrain the search space of protein structure prediction from small angle x-ray scattering experiments, a method highly suited to determining the likely structure of proteins in solution where crystal structure or machine learning based predictions often fail to match experimental data. Finally we develop a structural comparison metric based on the SKMT smoothing which is used in one specific case to demonstrate significant structural similarity between Rossmann fold and TIM Barrel proteins, a link which is potentially significant as attempts to engineer the latter have in the past produced the former. We provide the SWRITHE interactive python notebook to calculate these metrics.
 </p>
 <p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011248">Publisher</a>.</p>
+</div><!--/.vallenato-content-->
+<div class="vallenato-header" id="skmt">
+Writhing From Biophysics to Solar Physics and Back.
+</div><!--/.vallenato-header-->
+	
+<div class="vallenato-content">
+<p>with <a href="https://www.maths.dur.ac.uk/users/christopher.prior/">Chris Prior</a>.</p>
+
+<p>Contributed to a chapter in the peer-reviewed book: Helicities in Geophysics, Astrophysics, and Beyond. This includes some of my early work on the applications of the various forms of writhing on protein structure studies.
+</p>
+<p><a href="[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011248](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/9781119841715.ch9)">Publisher</a>.</p>
 </div><!--/.vallenato-content-->
 </div><!--/.vallenato-->
 
