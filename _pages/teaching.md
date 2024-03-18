@@ -9,3 +9,7 @@ author_profile: true
 * Math I Support Class
 * Numerical Analysis II 
 * Mathematical Biology III
+
+### Outreach
+* Schools' Science Festival 2024 - The Most Perfect Shapes
+* Celebrate Science 2023 - Building a Sierpinski Tetrahedron
