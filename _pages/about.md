@@ -23,7 +23,8 @@ I am a PhD student with the [MoSMed CDT](https://research.ncl.ac.uk/mosmed/) wor
 <li> November 2022 - Attended the <a href="https://www.mgms.org/WordPress/conferences/ymf-2022/">Young Modeller's Forum</a> hosted at Oxford University</li>
 <li> September 2022 - Attended the <a href="https://staff.matapp.unimib.it/ricca/EMFCSC2022Erice/index.html">Workshop on Topological Methods in Mathematical Physics</a>, hosted in Erice, Italy.</li>
 <li> July 2022 - Attended the <a href="https://research.ncl.ac.uk/mosmed/mosmed/">MoSMed</a> Annual Conference hosted at Durham University.</li>
-<li> December 2021 - First visit to <a href="https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/small-angle/B21.html">Diamond Light Source.</a></li>
+<li> December 2021 - First in person visit to <a href="https://www.diamond.ac.uk/Instruments/Soft-Condensed-Matter/small-angle/B21.html">Diamond Light Source.</a></li>
+<li> September 2021 - Won the Biological Price for my poster presentation at the <a href="https://www.diamond.ac.uk/Home/Events/2021/S4SAS-Conference-2021.html">S4SAS</a> conference, hosted virtually at Diamond Light Source</li>
 <li> Majority of 2020/21 - Travelled between my bedroom office and the kitchen for obvious reasons..</li>
 </ul>
 
