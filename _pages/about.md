@@ -34,4 +34,4 @@ I am a PhD student with the [MoSMed CDT](https://research.ncl.ac.uk/mosmed/) wor
 
 ### Currently reading...
 
-<a href="https://pmpress.org/index.php?l=product_detail&p=974"> Autonomy Is in Our Hearts: Zapatista Autonomous Government through the Lens of the Tsotsil Language </a>
+<a href="(https://www.penguin.co.uk/books/16658/writings-on-irish-folklore-legend-and-myth-by-wb-yeats-edited-with-an-introduction-and-notes-by-robert-welch/9780140180015)"> Writings on Irish Folklore, Legend and Myth - W.B. Yeats</a>
