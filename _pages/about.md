@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt:
+title: "Arron Bale - PhD Researcher"
+excerpt: "Developing software to produce realistic protein structure predictions from BioSAXs data."
 author_profile: true
 classes: wide
 redirect_from: 
