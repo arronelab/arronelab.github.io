@@ -13,7 +13,9 @@ I am a PhD student with the [MoSMed CDT](https://research.ncl.ac.uk/mosmed/) wor
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
-<li>February 2024 - Attended the <a href="https://www.biophysics.org/2024meeting#/">Biophysical Society Annual Meeting</a>.</li>
+<li> May 2024 - Attended the inaugural SiDur Symposium here at Durham.</li>
+<li> May 2024 - Attended the <a href="https://maths.dur.ac.uk/pgrd/">PGR Research Day</a> here at Durham.</li>
+<li> February 2024 - Attended the <a href="https://www.biophysics.org/2024meeting#/">Biophysical Society Annual Meeting</a>.</li>
 <li> January 2024 - Attended the <a href="https://seminargeotop-a.com/merida24">GEOTOP-A International Conference</a>.</li>
 <li> November 2023 - First paper published in <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011248">PLOS Computational Biology</a>.</li>
 <li> July 2023 - Attended the <a href="https://www.iscb.org/ismbeccb2023">ISMB/ECCB</a> conference in Lyon.</li>
