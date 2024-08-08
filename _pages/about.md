@@ -32,7 +32,7 @@ I am a PhD student with the [MoSMed CDT](https://research.ncl.ac.uk/mosmed/) wor
 
 ### Currently listening to...
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1147628014&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=1147628014&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1147628014&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1147628014&redirect=true)
 
 ### Currently reading...
 
