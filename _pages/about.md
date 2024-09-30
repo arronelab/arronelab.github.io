@@ -13,6 +13,7 @@ I am a PhD student with the [MoSMed CDT](https://research.ncl.ac.uk/mosmed/) wor
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
+<li> September 2024 - Submitted my Thesis! </li>
 <li> May 2024 - Attended the inaugural SiDur Symposium here at Durham.</li>
 <li> May 2024 - Attended the <a href="https://maths.dur.ac.uk/pgrd/">PGR Research Day</a> here at Durham.</li>
 <li> February 2024 - Attended the <a href="https://www.biophysics.org/2024meeting#/">Biophysical Society Annual Meeting</a>.</li>
